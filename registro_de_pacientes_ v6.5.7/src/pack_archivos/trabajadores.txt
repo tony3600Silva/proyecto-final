@@ -1,0 +1,5 @@
+cpelaez;carlos emilio;Pelàez;Garcia;22;2;1970;Masculino;09387654;su casa;cpelaezgarcia@hotmail.com;987654398;cPG2221970
+3909;Antony;Silva;Reymundo;31;3;1999;Masculino;74985593;Av.trapiche;chupentin@gmail.vom;987654365;ASR3131999
+2904;Percy;Pacahual;Virgilio;29;4;1996;Masculino;72764676;Av Atunes de Mayolo;andre@gmail.com;95641384;PPV2941996
+4556;Luis;Estrada;MIranda;1;2;2000;Masculino;87654356;Av Peru;luise@gmail.com;95214667;LEM122000
+2318;Sandro;Guerreo;Vilela;23;6;2000;Masculino;74120036;Av.Los Incas;sandro@hotmail.com;963852741;SGV2362000
